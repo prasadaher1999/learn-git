@@ -15,3 +15,12 @@ let divison = div(4,2);
 console.log("Addition =",sum);
 console.log("Subtraction =",subtraction);
 console.log("Division =",divison);
+
+
+//check postive or negative
+let a=-12;
+if(a>0){
+    console.log(a,"is positive");
+}else{
+    console.log(a,'is negative');
+}
